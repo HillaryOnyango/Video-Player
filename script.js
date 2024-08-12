@@ -118,7 +118,7 @@ volume.addEventListener("input", function () {
 	} 
 }); 
 
-// Hide or unhide controllers div 
+//  Show or hide controllers div 
 videoContainer.addEventListener("mouseenter", () => { 
 	controls.style.opacity = 1; 
 }); 
